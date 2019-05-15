@@ -41,6 +41,8 @@ footer:
 social:
   - title: github
     url: http://github.com/norbertlam
+  - title: linkedin
+    url: https://linkedin.com/in/lamnorbert/
 
 # Postal address (add as many lines as necessary)
 address:
@@ -50,7 +52,9 @@ address:
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
 <br>
 Jekyll Theme
-<a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer-Theme-Jekyll</a>'
+<a href="https://github.com/jeromelachaud/freelancer-theme">Freelancer-Theme-Jekyll</a>
+<br>
+Hosted on <a href="https://pages.github.com/">GitHub Pages</a>'
 
 # Build settings
 markdown: kramdown
